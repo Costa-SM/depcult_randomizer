@@ -1,6 +1,3 @@
-
-
-
 from os import read
 import random
 random.seed()
